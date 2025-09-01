@@ -21,10 +21,7 @@ date:   2019-02-22  10:13 am
 
 &nbsp;&nbsp;&nbsp;&nbsp;You understand that a robot is supposed to be able to explain the circumstances of events, don't you? Aristotle thinks that this is the way to do it (as it is explained by Michael C. Sloan):<br>
 <pre>
-Regardless of the ambiguity of Aristotle’s Greek, ﬁve of the seven circum-
-stances are easily identiﬁable, namely, the “who”, “what”, “by what means”,
-“for the sake of what” or “why”,and “how”. The other two circumstances,
-“where” and “when,” maybe found in the phrase (...).
+Regardless of the ambiguity of Aristotle's Greek, five of the seven circumstances are easily identifiable, namely, the "who" (τίς), "what" (τί), "by what means" (τίνι, οἷον ὀργάνῳ), "for the sake of what" (ἕνεκα τίνος), and "how" (πῶς). The other two circumstances, "where" and "when," may be found in the phrase περὶ τί ἔν τινι πράττει.
 </pre>
 
 Notice the particular translations of individual circumstances.<br>
